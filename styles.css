@@ -1,4 +1,10 @@
-.chef {
-    width: 400px;
-    height: 400px;
+a {
+    font-size: 50px;
+}
+ul {
+    font-size: 30px;
+}
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
